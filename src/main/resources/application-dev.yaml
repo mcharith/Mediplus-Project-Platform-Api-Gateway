@@ -7,4 +7,4 @@ spring:
 
   cloud:
     config:
-      uri: http://config.platform:9100
+      uri: http://localhost:9100
